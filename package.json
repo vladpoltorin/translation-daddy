@@ -1,0 +1,30 @@
+{
+  "name": "translation-daddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladpoltorin/translation-daddy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladpoltorin/translation-daddy/issues"
+  },
+  "homepage": "https://github.com/vladpoltorin/translation-daddy#readme",
+  "devDependencies": {
+    "next": "^9.0.2",
+    "nodemon": "^1.19.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
