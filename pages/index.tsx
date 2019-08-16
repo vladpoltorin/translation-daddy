@@ -1,3 +1,6 @@
-const App = () => <h1>Translation Daddy</h1>;
+import * as React from 'react';
+import Header from 'components/Header';
+
+const App = () => <Header />;
 
 export default App;
